@@ -24,4 +24,3 @@ Link to the presentation https://docs.google.com/presentation/d/1R0ZR5MSHXGNSkdk
 - [Google Maps API] (https://developers.google.com/maps/documentation/directions/)
 - [vk_posts](http://api.vk.com/api.php)
 
-# Tools
