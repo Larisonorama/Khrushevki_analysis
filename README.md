@@ -22,5 +22,6 @@ Link to the presentation https://docs.google.com/presentation/d/1R0ZR5MSHXGNSkdk
 - [GISGeo] (http://gisgeo.org/data.html) 
 - [Google Places API] (https://developers.google.com/places/) 
 - [Google Maps API] (https://developers.google.com/maps/documentation/directions/)
-- [vk_posts](http://api.vk.com/api.php)
+- [vk posts] (http://api.vk.com/api.php)
+
 
